@@ -4,7 +4,7 @@ Skills: REACT / JS / HTML / CSS
 
 *Materials and images are taken from public sources for example.*
 
-<img style="max-width:65vh;" src="./../react-app/src/img/preview.png" height="" alt="Preview"/>
+<img style="max-width:65vh;" src="./../src/img/preview.png" height="" alt="Preview"/>
 
 
 
